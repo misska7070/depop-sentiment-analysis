@@ -34,7 +34,8 @@ The analysis and suggestions I provided helped improve the Android app's rating,
 
 ## Presentation
 
-I created a detailed presentation summarizing the findings, insights, and suggestions for Depop. You can view the **Canva presentation** [here](https://www.canva.com/design/DAF7u-d2p1k/nZeu_gFHr19VBFXQIVAVAQ/edit?utm_content=DAF7u-d2p1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+I created a detailed presentation summarizing the findings, insights, and suggestions for Depop. You can view the **Canva presentation** 
+[https://www.canva.com/design/DAF7u-d2p1k/nZeu_gFHr19VBFXQIVAVAQ/edit?utm_content=DAF7u-d2p1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 
 ### Key Details for "How to Run":
@@ -42,7 +43,3 @@ I created a detailed presentation summarizing the findings, insights, and sugges
 2. **Set Up a Virtual Environment**: It’s always good practice to create a virtual environment to avoid conflicts with other projects.
 3. **Install Dependencies**: Using `pip install -r requirements.txt` ensures that all necessary libraries are installed for the project.
 4. **Running the Jupyter Notebook**: Instructions for launching Jupyter and opening the notebook.
-
-Make sure to create a `requirements.txt` file if you haven't already, listing the dependencies your project uses. You can generate it with:
-```bash
-pip freeze > requirements.txt
